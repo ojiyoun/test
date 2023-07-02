@@ -14,11 +14,7 @@
 새로운 파일14
 
 
-<<<<<<< Updated upstream
-충돌을 시작해볼까!!!!
-=======
 test2에서 커밋할거임
 test2에서 또 2번째 커밋할거임
 
 작업중 test2----
->>>>>>> Stashed changes
